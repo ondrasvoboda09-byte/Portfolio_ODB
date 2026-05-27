@@ -9,12 +9,12 @@ Každý blok obsahuje:
 ## Přehled bloků
 
 ## **Blok 1 – Webová stránka**
-  - [Praktická část](portfolio/blocks/blok-02.md)
-  - [Teoretické pozadí](portfolio/teorie/teorie-02.md)
+  - [Praktická část](portfolio/blocks/blok-01.md)
+  - [Teoretické pozadí](portfolio/teorie/teorie-01.md)
  
 ## **Blok 2 – Střih videa**
-  - [Praktická část](portfolio/blocks/blok-07.md)
-  - [Teoretické pozadí](portfolio/teorie/teorie-07.md)
+  - [Praktická část](portfolio/blocks/blok-02.md)
+  - [Teoretické pozadí](portfolio/teorie/teorie-02.md)
 
 ---
 
