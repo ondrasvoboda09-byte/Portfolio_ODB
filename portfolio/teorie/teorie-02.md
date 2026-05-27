@@ -1,4 +1,4 @@
-# Teorie – Blok 7: Střih videa (DaVinci Resolve)
+# Teorie – Blok 2: Střih videa (DaVinci Resolve)
 
 ## Co jsem se naučil
 
