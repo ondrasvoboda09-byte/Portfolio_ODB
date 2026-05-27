@@ -25,5 +25,5 @@ Ondřej Svoboda
 ---
 Portfolio využívá k zobrazování GitHub Pages s pluginen Jekyll
 
-Dostupné na tomto odkazu [Webová prezentace portfolia](https://dawissl.github.io/portfolio-simple/)
+Dostupné na tomto odkazu [Webová prezentace portfolia](https://ondrasvoboda09-byte.github.io/Portfolio_ODB/)
 
