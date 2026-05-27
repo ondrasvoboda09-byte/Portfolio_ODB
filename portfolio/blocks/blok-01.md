@@ -1,4 +1,4 @@
-# Blok 2 – Webová stránka (HTML, CSS, JavaScript)
+# Blok 1 – Webová stránka (HTML, CSS, JavaScript)
 
 ## Cíl
 
