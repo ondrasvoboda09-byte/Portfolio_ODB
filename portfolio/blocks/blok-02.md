@@ -1,4 +1,4 @@
-# Blok 7 – Střih videa (DaVinci Resolve)
+# Blok 2 – Střih videa (DaVinci Resolve)
 
 ## Cíl
 
