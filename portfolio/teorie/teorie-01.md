@@ -1,4 +1,4 @@
-# Teorie – Blok 2: Webová stránka (HTML, CSS, JavaScript)
+# Teorie – Blok 1: Webová stránka (HTML, CSS, JavaScript)
 
 ## Co jsem se naučila
 
