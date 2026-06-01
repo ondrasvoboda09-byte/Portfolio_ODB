@@ -22,7 +22,7 @@ Titulky jsem přidal jako Text+ v Edit page – název lokace vždy na začátku
 - Délka videa: 3 minuty 12 sekund
 - Ukázka timeline:
 
-![Timeline v DaVinci Resolve](../assets/images/strih.png)
+![strih videa](../assets/images/strih.png)
 
 ---
 
