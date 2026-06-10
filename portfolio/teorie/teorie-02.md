@@ -2,15 +2,25 @@
 
 ## Co jsem se naučil
 
-Pochopil jsem, že střih videa není jen „dávání záběrů za sebou" – výběr, délka a pořadí záběrů vytváří emoce a vyprávění. Naučil jsem se, že zvuk je stejně důležitý jako obraz, a že špatný zvuk diváka odradí rychleji než špatný záběr.
+Během tohoto odborného bloku jsem se naučil pracovat v programu Adobe Premiere Pro. Nejprve jsem se seznamoval se základním prostředím programu a jeho funkcemi. Naučil jsem se importovat videa, pracovat s časovou osou, stříhat jednotlivé záběry a správně organizovat projekt. Díky tomu jsem dokázal vytvořit vlastní videa od začátku až do konce..
 
 ---
 
-## Jak funguje video
+## Učení pomocí YouTube a Premiere Pro
 
-Video je sekvence statických snímků (frames) přehrávaných dostatečně rychle – mozek je vnímá jako plynulý pohyb. Standardní frekvence je 25 fps (evropský broadcast standard PAL). Každý snímek je obrázek v určitém rozlišení.
+Velkou pomocí pro mě byly návody a videa na YouTube. Sledoval jsem videa zaměřená na Adobe Premiere Pro a různé techniky střihu. Díky těmto videím jsem se naučil nové postupy, které bych sám jen těžko objevil. Inspiraci jsem získával také sledováním videí od zkušených editorů, kteří ukazovali své pracovní postupy a tipy pro lepší střih.
 
-Výsledný soubor je komprimován kodekem – algoritmem, který odstraní redundantní informace. H.264 (MP4) je nejpoužívanější – dobrý poměr kvality a velikosti souboru.
+---
+
+## Vlastní práce v Premiere Pro
+
+Nejvíce jsem se naučil při vytváření vlastních projektů. Pravidelně jsem stříhal videa a zkoušel nové postupy. Učil jsem se vybírat vhodné záběry, synchronizovat hudbu s videem a vytvářet plynulé přechody mezi jednotlivými scénami. Každým novým videem jsem získával více zkušeností a zlepšoval své dovednosti.
+
+---
+
+## Efekty a přechody
+
+Další věcí, kterou jsem se naučil, bylo používání základních efektů a přechodů. Zkoušel jsem různé druhy přiblížení, pohybů obrazu a prolínaček mezi záběry. Také jsem se učil, jak pomocí efektů udělat video zajímavější a dynamičtější. Díky tomu moje videa působí profesionálněji a lépe se na ně dívá.
 
 ---
 
