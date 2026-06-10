@@ -24,39 +24,6 @@ Další věcí, kterou jsem se naučil, bylo používání základních efektů 
 
 ---
 
-## Workflow v DaVinci Resolve
-
-DaVinci Resolve je organizován do stránek – každá slouží jinému účelu:
-
-1. **Media** – importuji záběry, organizuji do Binů (složek)
-2. **Cut / Edit** – skládám timeline, střihám záběry, přidávám titulky
-3. **Fairlight** – upravuji zvuk (hlasitost, šum, equalizer)
-4. **Color** – korigruji barvy a expozici záběrů
-5. **Deliver** – nastavuji export a generuji výsledný soubor
-
-Důležité: timeline je nedestruktivní – originální soubory zůstávají nedotčené. Vše, co dělám v timeline, jsou jen instrukce, jak záběry poskládat a upravit.
-
----
-
-## Střih a rytmus
-
-Střih není náhodný. Záběry střídám tak, aby udržely tempo a zájem diváka. Při rytmickém střihu na hudbu markiruji beaty v audio stopě a střihy záměrně pokládám na přechody. Výsledek působí dynamicky i bez složitých efektů.
-
-Základní pravidlo: záběr drží divákovi pozornost přibližně 3–7 sekund. Kratší = dynamické, rychlé. Delší = klidné, meditativní – ale hrozí ztráta pozornosti.
-
----
-
-## Zvuk
-
-Zvuk v post-produkci má dvě vrstvy:
-
-- **Diegetický zvuk** – zvuk ze scény (hlasy, kroky, okolí). Upravuji hlasitost tak, aby byl přirozený, ne příliš hlasitý.
-- **Nediegetický zvuk** – přidaná hudba nebo komentář. Hudbě typicky snížím hlasitost na −20 dB, aby nepřekrývala dialogy.
-
-Noise Reduction ve Fairlight odstraní konstantní šum (bzučení, šum klimatizace) – funguje tak, že analyzuji tiché místo záznamu jako „profil šumu" a pak ho odečtu od celé stopy.
-
----
-
 ## Slovník pojmů
 
 ---
